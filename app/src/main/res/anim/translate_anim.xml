@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><!--位移-->
 <translate xmlns:android="http://schemas.android.com/apk/res/android"
     android:duration="1000"
-    android:fromXDelta="100"
-    android:fromYDelta="100"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
     android:repeatCount="100"
     android:repeatMode="reverse"
     android:toXDelta="500"
+    android:fillBefore="true"
     android:toYDelta="500" />
